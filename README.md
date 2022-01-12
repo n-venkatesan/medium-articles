@@ -29,7 +29,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/visualizing-musical-intervals-with-lissajous-curves-351248ee30ff](https://towardsdatascience.com/visualizing-musical-intervals-with-lissajous-curves-351248ee30ff)  
 
-<b>Notebook: </b>[lissajous.ipynb](./lissajous.ipynb)
+<b>Notebook: </b>[lissajous.ipynb](./articles/lissajous/lissajous.ipynb)
 
 ---
 
@@ -41,7 +41,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/scraping-nfl-stats-to-compare-quarterback-efficiencies-4989642e02fe](https://towardsdatascience.com/scraping-nfl-stats-to-compare-quarterback-efficiencies-4989642e02fe)
 
-<b>Notebook: </b>[nfl-stats.ipynb](./nfl-stats.ipynb)
+<b>Notebook: </b>[nfl-stats.ipynb](./articles/nfl-stats/nfl-stats.ipynb)
 
 ---
 
@@ -53,7 +53,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/visualizing-the-2019-20-english-premier-league-season-with-matplotlib-and-pandas-fd491a07cfda](https://towardsdatascience.com/visualizing-the-2019-20-english-premier-league-season-with-matplotlib-and-pandas-fd491a07cfda)  
 
-<b>Notebook: </b>[epl-2019-2020.ipynb](./epl-stats/epl-2019-2020.ipynb)
+<b>Notebook: </b>[epl-2019-2020.ipynb](./articles/epl-stats/epl-2019-2020.ipynb)
 
 ---
 
@@ -65,7 +65,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://medium.com/swlh/generating-candlestick-charts-from-scratch-ef6e1d3cf0e9](https://medium.com/swlh/generating-candlestick-charts-from-scratch-ef6e1d3cf0e9)  
 
-<b>Notebook: </b>[stocks.ipynb](./stocks.ipynb)
+<b>Notebook: </b>[stocks.ipynb](./articles/stocks/stocks.ipynb)
 
 ---
 
@@ -77,7 +77,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/make-a-simple-nba-shot-chart-with-python-e5d70db45d0d](https://towardsdatascience.com/make-a-simple-nba-shot-chart-with-python-e5d70db45d0d)  
 
-<b>Notebook: </b>[nba_shotchart.ipynb](./nba_shotchart.ipynb)
+<b>Notebook: </b>[nba_shotchart.ipynb](./articles/nba-shotchart/nba_shotchart.ipynb)
 
 ---
 
@@ -89,7 +89,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://medium.com/@naveen.venkatesan/an-introduction-to-making-dynamic-and-interactive-plots-with-d3-a9e859413c5a](https://medium.com/@naveen.venkatesan/an-introduction-to-making-dynamic-and-interactive-plots-with-d3-a9e859413c5a)  
 
-<b>JavaScript: </b>[plot.js](./d3-intro/plot.js)
+<b>JavaScript: </b>[plot.js](./articles/d3-intro/plot.js)
 
 ---  
 
@@ -101,7 +101,7 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Link to Article: </b>[https://towardsdatascience.com/pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes-e8ef5c8e2a31](https://towardsdatascience.com/pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes-e8ef5c8e2a31)  
 
-<b>Notebook: </b>[keras-classifier.ipynb](./keras-classifier/keras-classifier.ipynb)  
+<b>Notebook: </b>[keras-classifier.ipynb](./articles/keras-classifier/keras-classifier.ipynb)  
 
 ---
 
