@@ -103,5 +103,10 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 <b>Notebook: </b>[keras-classifier.ipynb](./articles/keras-classifier/keras-classifier.ipynb)  
 
----
+---  
 
+### <b>Weather Extremes</b>  
+
+<p align="center">
+<img src="articles/github-actions/weather_extremes.png" width=400px>
+</p>
