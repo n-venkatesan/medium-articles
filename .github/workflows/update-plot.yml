@@ -20,7 +20,7 @@ jobs:
           cache: 'pip'
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r articles/github-actions/requirements.txt
 
       - name: Run Script and Update Plot
         run: |
