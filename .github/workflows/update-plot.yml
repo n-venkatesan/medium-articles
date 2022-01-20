@@ -2,12 +2,12 @@ name: Update Weather Extremes Plot
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0-21/3 * * *'
   workflow_dispatch:
 
 jobs:
   update_plot:
-    name: Update plot with new extreme weather data
+    name: Update plot with new location weather data
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -25,13 +25,13 @@ jobs:
       - name: Run Script and Update Plot
         run: |
           cd articles/github-actions/
-          jupyter nbconvert --to script weather_extremes.ipynb
-          python weather_extremes.py
+          jupyter nbconvert --to script weather_locations.ipynb
+          python weather_locations.py
       
       - name: Commit and Push Changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add articles/github-actions/weather_extremes.csv articles/github-actions/weather_extremes.png
+          git add articles/github-actions/weather_locations.csv articles/github-actions/weather_locations.png
           git commit -m "Updated plot on `date` with GitHub Actions"
           git push origin master
