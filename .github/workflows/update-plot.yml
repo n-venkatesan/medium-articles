@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-					git add articles/github-actions/weather_locations.csv
-          git add articles/github-actions/weather_locations.png
+	  git add articles/github-actions/weather_locations.csv 
+	  git add articles/github-actions/weather_locations.png
           git commit -m "Updated plot on `date` with GitHub Actions" || echo "No Changes to Commit"
           git push origin master || echo "No Changes to Commit"
