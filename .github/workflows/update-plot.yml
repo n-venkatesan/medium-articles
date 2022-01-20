@@ -1,4 +1,4 @@
-name: Update Weather Extremes Plot
+name: Update Weather Locations Plot
 
 on:
   schedule:
