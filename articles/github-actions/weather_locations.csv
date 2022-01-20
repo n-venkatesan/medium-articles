@@ -1,0 +1,11 @@
+time_utc,location,temperature_c,weather_state
+2022-01-20 18:59:16.758935+00:00,San Francisco,14.73,Light Cloud
+2022-01-20 19:09:38.943148+00:00,Seoul,1.5,Light Cloud
+2022-01-20 17:34:43.987441+00:00,Chennai,26.97,Heavy Cloud
+2022-01-20 18:06:11.187592+00:00,Cape Town,24.795,Clear
+2022-01-20 20:34:44.359774+00:00,Chennai,26.97,Heavy Cloud
+2022-01-20 21:06:10.742931+00:00,Cape Town,24.885,Clear
+2022-01-20 21:59:16.842543+00:00,San Francisco,15.46,Clear
+2022-01-20 22:09:37.878719+00:00,Seoul,0.9850000000000001,Light Cloud
+2022-01-20 20:34:44.359774+00:00,Chennai,26.97,Heavy Cloud
+2022-01-20 21:06:13.824810+00:00,Cape Town,27.955,Clear
