@@ -108,5 +108,5 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 ### <b>Weather in Different Locations</b>  
 
 <p align="center">
-<img src="articles/github-actions/weather_locations.png" width=400px>
+<img src="articles/github-actions/weather_locations.png" width=600px>
 </p>
