@@ -167,3 +167,7 @@ time_utc,location,temperature_c,weather_state
 2022-01-27T22:09:38.243588Z,Seoul,1.17,Heavy Cloud
 2022-01-27T23:34:40.376196Z,Chennai,26.87,Heavy Rain
 2022-01-28T00:06:13.442568Z,Cape Town,23.085,Light Cloud
+2022-01-28T09:59:17.555616Z,San Francisco,14.515,Heavy Cloud
+2022-01-28T10:09:38.670206Z,Seoul,0.98,Light Cloud
+2022-01-28T11:34:41.159433Z,Chennai,27.45,Heavy Rain
+2022-01-28T12:06:11.249278Z,Cape Town,23.4,Light Cloud
