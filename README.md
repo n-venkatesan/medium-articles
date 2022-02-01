@@ -17,7 +17,9 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 6. [An Introduction to Making Dynamic and Interactive Plots with D3](#an-introduction-to-making-dynamic-and-interactive-plots-with-d3)  
 
-7. [Pizza? Or Pasta? Create an Image classifier with Keras in 30 Minutes](#pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes)
+7. [Pizza? Or Pasta? Create an Image classifier with Keras in 30 Minutes](#pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes)  
+
+8. [Scheduling Notebook and Script Runs with GitHub Actions](#scheduling-notebook-and-script-runs-with-github-actions)
 
 ---  
 
@@ -105,8 +107,14 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 ---  
 
-### <b>Weather in Different Locations</b>  
+### <b>Scheduling Notebook and Script Runs with GitHub Actions</b>  
 
 <p align="center">
 <img src="articles/github-actions/weather_locations.png" width=600px>
-</p>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2](https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2)  
+
+<b>Notebook: </b>[weather_locations.ipynb](./articles/github-actions/weather_locations.ipynb)  
+
+---
