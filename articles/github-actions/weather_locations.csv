@@ -459,3 +459,7 @@ time_utc,location,temperature_c,weather_state
 2022-04-17T10:09:39.947104Z,Seoul,19.33,Clear
 2022-04-17T11:34:42.866442Z,Chennai,32.74,Showers
 2022-04-17T12:06:12.987890Z,Cape Town,22.41,Clear
+2022-04-18T09:59:16.343263Z,San Francisco,14.73,Showers
+2022-04-18T10:09:37.859838Z,Seoul,19.29,Heavy Cloud
+2022-04-18T11:34:40.750847Z,Chennai,32.33,Showers
+2022-04-18T12:06:10.273256Z,Cape Town,22.335,Clear
