@@ -21,6 +21,8 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 
 8. [Scheduling Notebook and Script Runs with GitHub Actions](#scheduling-notebook-and-script-runs-with-github-actions)
 
+9. [Analyzing and Plotting NFL Data with nflfastpy and Plotly](#analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly)  
+
 ---  
 
 ### <b>Visualizing Musical Intervals with Lissajous Curves</b>  
@@ -116,5 +118,17 @@ Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)
 <b>Link to Article: </b>[https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2](https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2)  
 
 <b>Notebook: </b>[weather_locations.ipynb](./articles/github-actions/weather_locations.ipynb)  
+
+---  
+
+### <b>Analyzing and Plotting NFL Data with nflfastpy and Plotly</b>  
+
+<p align="center">
+<img src="https://miro.medium.com/max/1400/1*wJHYPifjINmDUqMn4SX6_g.png" width=600px>
+</p>  
+
+<b>Link to Article: </b>[https://towardsdatascience.com/analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly-a170a09cad6](https://towardsdatascience.com/analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly-a170a09cad6)  
+
+<b>Notebook: </b>[nflfastpy.ipynb](./articles/nflfastpy/nflfastpy.ipynb)  
 
 ---
